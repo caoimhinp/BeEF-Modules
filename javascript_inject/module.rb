@@ -10,4 +10,4 @@ class Javascript_inject < BeEF::Core::Command
     save({'result' => @datastore['result']})
   end
   
-end
+end #change
